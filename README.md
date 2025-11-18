@@ -73,10 +73,9 @@ It provides quick insights into total transactions, transaction amount trends, b
 
 ## 📷 **Dashboard Preview**
 
-*(Include the dashboard image here in your GitHub repo)*
 
-```md
-![UPI Dashboard](dashboard.png)
+<img width="883" height="481" alt="Screenshot 2025-11-18 132231" src="https://github.com/user-attachments/assets/4cee1d69-196b-4a06-b075-941530648b5e" />
+
 ```
 
 ---

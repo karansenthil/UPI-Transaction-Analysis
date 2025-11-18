@@ -1,7 +1,5 @@
 # UPI-Transaction-Analysis
 
-# **UPI Transaction Dashboard**
-
 This project presents an interactive and visually appealing **UPI Transaction Analytics Dashboard**, built to analyze and interpret transaction patterns across different banks, states, days, and merchant categories.
 It provides quick insights into total transactions, transaction amount trends, bank usage, and category-wise spending behavior.
 
